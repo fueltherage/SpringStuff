@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Guns\HookGun\HandleSwinging.cs">
+    <Files>
+      <File FileName="Assets\Guns\HookGun\HandleSwinging.cs" Line="106" Column="3" />
+      <File FileName="Assets\Player\RigidWalker.cs" Line="44" Column="51" />
+      <File FileName="Assets\Player\SmoothMouseLook.cs" Line="57" Column="6" />
+      <File FileName="Assets\Player\HandleShooting.cs" Line="24" Column="33" />
+      <File FileName="Assets\Guns\HookGun\Spring.cs" Line="19" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
