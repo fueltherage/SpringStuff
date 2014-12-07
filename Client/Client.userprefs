@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpidermanStuff\Abilities\SwordAbility.cs">
+    <Files>
+      <File FileName="Assets\SpidermanStuff\Abilities\SwordAbility.cs" Line="11" Column="15" />
+      <File FileName="Assets\SpidermanStuff\WeaponSlot.cs" Line="26" Column="30" />
+      <File FileName="Assets\Scripts\Spring.cs" Line="125" Column="47" />
+      <File FileName="Assets\Scripts\SpringQuad.cs" Line="16" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
